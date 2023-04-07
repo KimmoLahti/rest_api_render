@@ -1,0 +1,33 @@
+{
+  "name": "rest_api_render",
+  "version": "1.0.0",
+  "description": "rest api serverilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "server",
+    "react"
+  ],
+  "author": "Kimmo Lahtinen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^7.0.3",
+    "node": "^19.8.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimmoLahti/Rest_API_Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KimmoLahti/Rest_API_Project/issues"
+  },
+  "homepage": "https://github.com/KimmoLahti/Rest_API_Project#readme"
+}
